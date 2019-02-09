@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="0...1">
+    <Position X="7.562" Y="2.125" Height="0.291" Width="0.7" />
+  </Comment>
+  <Class Name="Class_Designer.Person">
+    <Position X="4" Y="2" Width="1.5" />
+    <AssociationLine Name="GetAdresse" Type="Class_Designer.Wohnadresse">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.162" Y="0.091" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAgAAAAAAAAAEAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Scripts\Diagram1.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="GetAdresse" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Class_Designer.Wohnadresse">
+    <Position X="8.5" Y="2" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAABAAAAAAAAAAACAAQAoAAAA=</HashCode>
+      <FileName>Scripts\Diagram1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Class_Designer.Student">
+    <Position X="2.75" Y="4.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAAAAAAAAAAQAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Scripts\Diagram1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Class_Designer.Professor">
+    <Position X="4.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Scripts\Diagram1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
